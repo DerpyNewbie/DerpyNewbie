@@ -7,10 +7,12 @@ I'm a creator specialized in Virtual Reality and Games!
 
 Creating open-source tools and libraries for developers!
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=DerpyNewbie&repo=Centurion-Creative-Connect/System&show_owner=false&theme=dracula&card_width=421)](https//github.com/Centruion-Creative-Connect/System)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=DerpyNewbie&repo=DerpyNewbie/NewbieCommons&show_owner=false&theme=dracula&card_width=230)](https//github.com/DerpyNewbie/NewbieCommons)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=DerpyNewbie&repo=DerpyNewbie/NewbieLogger&show_owner=false&theme=dracula&card_width=299)](https//github.com/DerpyNewbie/NewbieLogger)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/gist?id=c735938cc245744337d26844ab848acc&show_owner=true&theme=dracula)](https://gist.github.com/DerpyNewbie/c735938cc245744337d26844ab848acc)
+<p>
+<a href="https://github.com/Centurion-Creative-Connect/System"><img src="https://github-stats-extended.vercel.app/api/pin?username=DerpyNewbie&repo=Centurion-Creative-Connect/System&show_owner=false&theme=dracula&card_width=250"></a>
+<a href="https://github.com/DerpyNewbie/GenericEngine"><img src="https://github-stats-extended.vercel.app/api/pin?username=DerpyNewbie&repo=DerpyNewbie/GenericEngine&show_owner=false&theme=dracula&card_width=250"></a>
+<a href="https://github.com/DerpyNewbie/NewbieCommons"><img src="https://github-stats-extended.vercel.app/api/pin?username=DerpyNewbie&repo=DerpyNewbie/NewbieCommons&show_owner=false&theme=dracula&card_width=250"></a>
+<a href="https://github.com/DerpyNewbie/NewbieLogger"><img src="https://github-stats-extended.vercel.app/api/pin?username=DerpyNewbie&repo=DerpyNewbie/NewbieLogger&show_owner=false&theme=dracula&card_width=250"></a>
+</p>
 
 </div>
 </div>
