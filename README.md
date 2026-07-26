@@ -3,7 +3,7 @@
 <div align="center">
 <img align="right" src="https://github.com/DerpyNewbie/DerpyNewbie/blob/master/Images/Profile_Peace.png" title="Profile_Peace" width="225" height="142">
 <div align="left">
-I'm a creator specialized in Virtual Reality and Games!
+I'm a creator who loves Virtual Reality and Games!
 
 Creating open-source tools and libraries for developers!
 
