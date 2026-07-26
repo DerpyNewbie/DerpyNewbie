@@ -7,6 +7,8 @@ I'm a creator specialized in Virtual Reality and Games!
 
 Creating open-source tools and libraries for developers!
 
+VRChat でサバゲのシステム作ってたり、C++ でゲームエンジン作ってたりする日本人です!
+
 <p>
 <a href="https://github.com/Centurion-Creative-Connect/System"><img src="https://github-stats-extended.vercel.app/api/pin?username=DerpyNewbie&repo=Centurion-Creative-Connect/System&show_owner=false&theme=rose&card_width=280"></a>
 <a href="https://github.com/DerpyNewbie/GenericEngine"><img src="https://github-stats-extended.vercel.app/api/pin?username=DerpyNewbie&repo=DerpyNewbie/GenericEngine&show_owner=false&theme=rose&card_width=280"></a>
